@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Chenkai Ma, a final year master student at UESTC, majoring in computer science.
+Hi, I'm Chenkai Ma, a final year master student at UESTC, and I major in computer science.
 
 I am interested in natural language processing (NLP). Specifically, I have two research directions related to large language models (LLMs):
 1. **In-context Learning Methods for LLM Reasoning**: How to make LLMs better reasoners?
