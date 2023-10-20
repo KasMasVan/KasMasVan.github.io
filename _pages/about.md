@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: 12.jpg # prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Chenkai, an final year master student at UESTC, majoring in computer science.
+Hi, I'm Chenkai Ma, a final year master student at UESTC, majoring in computer science.
 
-I am interested in natural language processing (NLP) .Specifically, I have two research interest:
+I am interested in natural language processing (NLP). Specifically, I have two research directions related to large language models (LLMs):
 1. **In-context Learning Methods for LLM Reasoning**: How to make LLMs better reasoners?
 2. **LLM for Real-World Applications**: How to reliably and efficiently use LLMs in the real world?
 
