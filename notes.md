@@ -18,4 +18,6 @@ add news, one md file one news.
 
 Check change: stage suffcies, no need to commit.
 
-Deploy: later
+## Deploy
+Set up automatic deployment of your webpage
+Make changes, commit, and push!
